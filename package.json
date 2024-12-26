@@ -1,6 +1,6 @@
 {
   "name": "react-webgpu-context",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React context and hook to use WebGPU",
   "scripts": {
     "build": "vite build"
