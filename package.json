@@ -1,6 +1,6 @@
 {
   "name": "react-webgpu-context",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React context and hook to use WebGPU",
   "scripts": {
     "build": "vite build"
@@ -21,7 +21,7 @@
   "projectType": "library",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kubohiroya/react=webgpu-context.git"
+    "url": "git+https://github.com/kubohiroya/react-webgpu-context.git"
   },
   "homepage": "https://github.com/kubohiroya/react-webgpu-context",
   "keywords": [
